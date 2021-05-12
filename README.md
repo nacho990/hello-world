@@ -1,2 +1,5 @@
 # hello-world
-Justa a repo
+
+Hi peoplae,
+
+I am gointo to conquest your world
